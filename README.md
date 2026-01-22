@@ -9,7 +9,7 @@
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
         <br>
         <img src="https://github.com/mikegasche/Collage/blob/master/app/resources/title512.png" alt="Collage" width="200"><br><br>
-        <strong>Collage</strong> – Create organic collages from images – optimized space usage, minimal overlap, optional rotation, and transparent background. The app offers both a Graphical User Interface (GUI) and CLI options.<br><br><br>
+        <strong>Collage</strong> – Create organic collages from images – optimized space usage, minimal overlap, optional rotation, and transparent background. The app offers both a Graphical User Interface (GUI) and CLI options.<br><br>
         <a href="https://github.com/mikegasche/Collage">Repo</a><br><br>
       </div>
     </td>

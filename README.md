@@ -1,5 +1,5 @@
 <details open>
-<summary><strong>Hi there 👋 Here, you'll find some fun apps and open source, for more serious enterprise and business apps visit [autumo Switzerland](https://github.com/autumoswitzerland).</strong></summary>
+<summary><strong>Hi there 👋 Here, you'll find some fun apps and open source, for more serious enterprise and business apps visit <a href="https://github.com/autumoswitzerland">autumo Switzerland</a>.</strong></summary>
 
 <br>
 

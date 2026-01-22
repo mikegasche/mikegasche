@@ -17,7 +17,7 @@
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #ffffff; text-align: center; vertical-align: top;">
         <br>
         <img src="https://github.com/mikegasche/Phosphor/blob/master/app/resources/logo.png" alt="Phosphor" width="200"><br><br>
-        <strong>autumo ifaceX</strong> - Phosphor is a retro video player for macOS that emulates the look and feel of CRT TVs, old VHS tapes, and classic scanlines. Designed for enthusiasts and developers who love vintage video effects.<br><br>
+        <strong>Phosphor</strong> - Retro video player for macOS that emulates the look and feel of CRT TVs, old VHS tapes, and classic scanlines. Designed for enthusiasts and developers who love vintage video effects.<br><br>
         <a href="https://github.com/mikegasche/Phosphor">Repo</a><br><br>
       </div>
     </td>

@@ -39,7 +39,7 @@
 
   <!-- 2nd row -->
   <tr>
-    <td style="padding: 0;" col="2">
+    <td style="padding: 0;" colspan="2">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
         <br>
         <img src="https://raw.githubusercontent.com/mikegasche/TuFac/refs/heads/master/app/resources/logo_512.png" alt="TuFac" width="200"><br><br>

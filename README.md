@@ -4,6 +4,8 @@
 <br>
 
 <table style="border-collapse: collapse; width: 100%;">
+
+  <!-- 1st row -->
   <tr>
     <td style="padding: 0;">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
@@ -35,7 +37,7 @@
     </td>
   </tr>
 
-  <table style="border-collapse: collapse; width: 100%;">
+  <!-- 2nd row -->
   <tr>
     <td style="padding: 0;" col="2">
       <div style="width: 300px; margin: auto; padding: 10px; background-color: #f9f9f9; text-align: center; vertical-align: top;">
